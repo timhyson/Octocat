@@ -1,1 +1,5 @@
 Explain what a branch is, in your own words
+
+A branch is like a fork in the edit timeline of a repository.  Edits made AFTER the fork do not affect the other branch.  
+
+So in the example of this exercise, working on the "answers" branch does not affect the "questions" branch.  If we were to switch branches (using checkout <branch>) we would see that these files contain only the questions, and not the answers.
