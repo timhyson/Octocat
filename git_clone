@@ -1,1 +1,9 @@
 Explain what git clone does, in your own words
+
+Git clone allows you to make an exact replica of an existing repository.  For instance if you want to contribute to an online repository on Github, git clone will allow you to pull down to your local client all of the online files.  You can then work on these files and upload (push) them back to the online repository when you're finished.
+
+The syntax is 
+
+     $git clone [url] 
+
+where [url] is the url of the repository that you want to clone.
