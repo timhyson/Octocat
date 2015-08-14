@@ -1,1 +1,5 @@
 Explain what the 'upstream' remote is usually used for, in your own words
+
+The term 'upstream remote' usually refers to the repository from which the cloned repository originates.
+
+So in this exercise, the upstream remote is the repository hosted on Github.  The downstream repo is on my computer and pulls from the upstream -Github- repo, and when I've finished making my changes I'll push my commits back upstream to the repository on Github.
